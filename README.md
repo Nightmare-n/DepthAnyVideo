@@ -1,6 +1,6 @@
 # Depth Any Video with Scalable Synthetic Data
 
-**Depth Any Video** introduces a **scalable synthetic data** pipeline, capturing **40,000** video clips from diverse game environments, and leverages powerful priors of generative **video diffusion models** to advance video depth estimation. By incorporating rotary position encoding, flow matching, and a mixed-duration training strategy, it robustly handles **varying video lengths and frame rates**. Additionally, a novel depth interpolation method enables **high-resolution depth inference**, achieving superior spatial accuracy and temporal consistency compared to previous models.
+**Depth Any Video** introduces a **scalable synthetic data** pipeline, capturing **40,000** video clips from diverse games, and leverages powerful priors of generative **video diffusion models** to advance video depth estimation. By incorporating rotary position encoding, flow matching, and a mixed-duration training strategy, it robustly handles **varying video lengths and frame rates**. Additionally, a novel depth interpolation method enables **high-resolution depth inference**, achieving superior spatial accuracy and temporal consistency over previous models.
 
 This repository is the official implementation of the paper:
 <div align='center'>
