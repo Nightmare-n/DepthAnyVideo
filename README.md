@@ -17,7 +17,7 @@ This repository is the official implementation of the paper:
 [*Wanli Ouyang*](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ),
 [*Tong He+*](https://scholar.google.com/citations?user=kWADCMUAAAAJ)
 
-Arxiv, 2024. [**[Project Page]**](https://depthanyvideo.github.io/) [**[Paper]**](?) [**[Video]**](?)
+[**[Project Page]**](https://depthanyvideo.github.io/) [**[Paper]**](?) [**[Video]**](?)
 </div>
 
 ![teaser](assets/teaser.png)
