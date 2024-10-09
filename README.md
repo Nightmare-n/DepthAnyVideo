@@ -5,7 +5,7 @@
 This repository is the official implementation of the paper:
 <div align='center'>
 
-**Depth Any Video with Scalable Synthetic Data**
+[**Depth Any Video with Scalable Synthetic Data**](https://depthanyvideo.github.io/pdf/DepthAnyVideo.pdf)
 
 [*Honghui Yang**](https://hhyangcs.github.io/),
 [*Di Huang**](https://dihuang.me/),
@@ -17,7 +17,7 @@ This repository is the official implementation of the paper:
 [*Wanli Ouyang*](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ),
 [*Tong He+*](https://scholar.google.com/citations?user=kWADCMUAAAAJ)
 
-[**[Project Page]**](https://depthanyvideo.github.io/) [**[Paper]**](?) [**[Video]**](?)
+[**[Project Page]**](https://depthanyvideo.github.io/)
 </div>
 
 ![teaser](assets/teaser.png)
