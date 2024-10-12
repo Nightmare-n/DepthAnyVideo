@@ -22,7 +22,7 @@ This repository is the official implementation of the paper:
 
 ![teaser](assets/teaser.png)
 
-## NEWS
+## News
 
 [2024-10-14] The arXiv submission will be available.
 
