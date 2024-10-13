@@ -24,7 +24,7 @@ This repository is the official implementation of the paper:
 
 ## News
 
-[2024-10-14] The arXiv submission will be available.
+[2024-10-14] The preprint is available [here](https://depthanyvideo.github.io/pdf/DepthAnyVideo.pdf).
 
 ## Citation
 
