@@ -22,6 +22,10 @@ This repository is the official implementation of the paper:
 
 ![teaser](assets/teaser.png)
 
+## News
+
+[2024-10-15] The arXiv submission is available.
+
 ## Installation
 
 Setting up the environment with conda. With support for the app.
@@ -36,10 +40,6 @@ conda activate dav
 pip install -r requirements.txt
 pip install gradio
 ```
-
-## News
-
-[2024-10-15] The arXiv submission is available.
 
 ## Citation
 
