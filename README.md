@@ -5,7 +5,7 @@
 This repository is the official implementation of the paper:
 <div align='center'>
 
-[**Depth Any Video with Scalable Synthetic Data**](https://depthanyvideo.github.io/pdf/DepthAnyVideo.pdf)
+[**Depth Any Video with Scalable Synthetic Data**](http://arxiv.org/abs/2410.10815)
 
 [*Honghui Yang**](https://hhyangcs.github.io/),
 [*Di Huang**](https://dihuang.me/),
@@ -24,7 +24,7 @@ This repository is the official implementation of the paper:
 
 ## News
 
-[2024-10-14] The preprint is available [here](https://depthanyvideo.github.io/pdf/DepthAnyVideo.pdf).
+[2024-10-15] The arXiv submission is available.
 
 ## Citation
 
@@ -34,7 +34,7 @@ If you find our work useful, please cite:
 @article{yang2024depthanyvideo,
   author    = {Honghui Yang and Di Huang and Wei Yin and Chunhua Shen and Haifeng Liu and Xiaofei He and Binbin Lin and Wanli Ouyang and Tong He},
   title     = {Depth Any Video with Scalable Synthetic Data},
-  journal   = {arXiv preprint arxiv:?},
+  journal   = {arXiv preprint arXiv:2410.10815},
   year      = {2024}
 }
 ```
