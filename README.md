@@ -22,6 +22,21 @@ This repository is the official implementation of the paper:
 
 ![teaser](assets/teaser.png)
 
+## Installation
+
+Setting up the environment with conda. With support for the app.
+
+```bash
+git clone https://github.com/Nightmare-n/DepthAnyVideo
+cd DepthAnyVideo
+
+# create env using conda
+conda create -n dav python==3.10
+conda activate dav
+pip install -r requirements.txt
+pip install gradio
+```
+
 ## News
 
 [2024-10-15] The arXiv submission is available.
