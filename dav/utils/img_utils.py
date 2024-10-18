@@ -36,8 +36,8 @@ def imresize_max(img, size, min_side=False):
     for i, _img in enumerate(img):
         h, w = _img.shape[:2]
         ori_size = min(h, w) if min_side else max(h, w)
-        resize = min(size / ori_size, 1.0)
-        new_size = (int(w * resize), int(h * resize))
+        resi = min(size / ori_size, 1.0)
+        new_size = (int(w * resi), int(h * resi))
         new_img.append(resize(_img, new_size))
     return new_img
 
