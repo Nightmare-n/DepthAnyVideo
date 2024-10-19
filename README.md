@@ -24,7 +24,9 @@ This repository is the official implementation of the paper:
 
 ## News
 
-[2024-10-15] The arXiv submission is available.
+[2024-10-20] The Hugging Face online demo is live [here](https://huggingface.co/spaces/hhyangcs/depth-any-video).
+
+[2024-10-15] The arXiv submission is available [here](https://arxiv.org/abs/2410.10815).
 
 ## Installation
 
