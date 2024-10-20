@@ -20,6 +20,7 @@ This repository is the official implementation of the paper:
 <a href='https://arxiv.org/abs/2410.10815'><img src='https://img.shields.io/badge/arXiv-2410.10815-b31b1b.svg'></a> &nbsp;
 <a href='https://depthanyvideo.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href='https://huggingface.co/spaces/hhyangcs/depth-any-video'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
+<a href='https://replicate.com/chenxwh/depth-any-video'><img src='https://replicate.com/chenxwh/depth-any-video/badge'></a> &nbsp;
  
 </div>
 
@@ -27,7 +28,7 @@ This repository is the official implementation of the paper:
 
 ## News
 
-[2024-10-20] The Replicate Demo and API is added here [![Replicate](https://replicate.com/chenxwh/depth-any-video/badge)](https://replicate.com/chenxwh/depth-any-video).
+[2024-10-20] The Replicate Demo and API is added [here](https://replicate.com/chenxwh/depth-any-video).
 
 [2024-10-20] The Hugging Face online demo is live [here](https://huggingface.co/spaces/hhyangcs/depth-any-video).
 
