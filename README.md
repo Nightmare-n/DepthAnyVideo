@@ -17,7 +17,10 @@ This repository is the official implementation of the paper:
 [*Wanli Ouyang*](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ),
 [*Tong He+*](https://scholar.google.com/citations?user=kWADCMUAAAAJ)
 
-[**[Project Page]**](https://depthanyvideo.github.io/)
+<a href='https://arxiv.org/abs/2410.10815'><img src='https://img.shields.io/badge/arXiv-2410.10815-b31b1b.svg'></a> &nbsp;
+<a href='https://depthanyvideo.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+<a href='https://huggingface.co/spaces/hhyangcs/depth-any-video'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
+ 
 </div>
 
 ![teaser](assets/teaser.png)
